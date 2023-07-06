@@ -55,6 +55,7 @@ button, a,
 .header-container {
     display: flex;
     padding: 64px;
+    justify-content: center;
 }
 
 .title {
