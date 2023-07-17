@@ -87,6 +87,7 @@ button, a,
 
 .info-content {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .info-container {
