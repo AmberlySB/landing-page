@@ -146,6 +146,7 @@ button, a,
     margin: 64px;
     padding: 32px 100px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 button.cta-button {
